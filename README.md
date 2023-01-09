@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakjain1811
-- 👀 I’m interested in Python and Data Analysis.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m a data enthusiast and looking for Data Sceince opportunities.
+- 🌱 I’m currently building my skills in Data and analytics.
 - 📫 Reach me on my email.
 
 <!---
