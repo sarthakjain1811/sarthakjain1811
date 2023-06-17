@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthakjain1811
-- 👀 I’m a data enthusiast and looking for Data Sceince opportunities.
+- 👀 I’m a data enthusiast and looking for Data Science opportunities.
 - 🌱 I’m currently building my skills in Data and analytics.
 - 📫 Reach me on my email.
 
