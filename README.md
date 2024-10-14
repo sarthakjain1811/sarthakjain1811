@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarthakjain1811
-- 👀 I’m a data enthusiast and looking for Data Science opportunities.
-- 🌱 I’m currently building my skills in Data and analytics.
+- 👀 I’m a Technology consultant, currently working on GenAI.
 - 📫 Reach me on my email.
 
 <!---
